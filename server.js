@@ -30,4 +30,4 @@ runxpres.use ("/", rutter); // tek satıra indi get yerine use geldi
 
 
 
-runxpres.listen (66);
+runxpres.listen (8080);
